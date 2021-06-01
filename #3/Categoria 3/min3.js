@@ -1,0 +1,1 @@
+const min3 = (a, b, c) => (Math.min(c, Math.min(a,b)))
