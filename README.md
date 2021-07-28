@@ -7,4 +7,5 @@ Basicamente um repositório contendo o meu desenvolvimento na disciplina de prog
 #4 -> https://github.com/Elias-Dias-De-Araujo/Programacao_funcional/tree/main/%234 \
 #5 -> https://github.com/Elias-Dias-De-Araujo/Programacao_funcional/tree/main/%235 \
 #7 -> https://github.com/Elias-Dias-De-Araujo/Programacao_funcional/tree/main/%237 \
-#8 -> https://github.com/Elias-Dias-De-Araujo/Programacao_funcional/tree/main/%238 
+#8 -> https://github.com/Elias-Dias-De-Araujo/Programacao_funcional/tree/main/%238 \
+#9 -> https://github.com/Elias-Dias-De-Araujo/Programacao_funcional/tree/main/%239
